@@ -1,0 +1,9 @@
+body {
+  text-align: center;
+  background: #a6adad;
+  color: #dedede;
+  font-family: Verdana, Geneva, Tahoma, sans-serif, serif;
+}
+#canvas {
+  border: 5px solid #5e5e5e;
+}
